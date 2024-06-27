@@ -19,6 +19,7 @@
     --grad-2: linear-gradient(98.63deg,#8d5df6 -0.91%,#fe42eb 98.79%);
     --grad-3: linear-gradient(125.87deg,#3378ff -23.02%,#5effc5 5.81%,#9442fe 57.71%,#fe42eb);
     --grad-4: linear-gradient(98.63deg,#8d5df6 -0.91%,#fe42eb 98.79%);
+    --grad-5: linear-gradient(90deg, #08dca4,#b86add);                                          
     --grad-header: linear-gradient(90deg,rgba(62,62,62,.099) -0.42%,#3e3e3e 44.04%,rgba(62,62,62,0));
     --trans: 0.3s;
     --trans-menu: 0.4s;
@@ -627,7 +628,7 @@ img {
     position: relative;
     justify-content: center;
     align-items: flex-end;
-    background: var(--grad-3);
+    background: var(--grad-5);
     overflow: hidden
 }
 
