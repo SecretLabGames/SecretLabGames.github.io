@@ -742,7 +742,7 @@ img {
     font-weight: 400;
     font-size: 14px;
     line-height: 160%;
-    color: var(--light-gray)
+    color: var(--dark-white)
 }
 
 @media(min-width: 768px) {
