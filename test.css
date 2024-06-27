@@ -743,7 +743,7 @@ img {
     font-weight: 400;
     font-size: 14px;
     line-height: 160%;
-    color: var(--dark-white)
+    color: var(--white)
 }
 
 @media(min-width: 768px) {
