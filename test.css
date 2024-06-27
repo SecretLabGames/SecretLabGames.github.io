@@ -686,7 +686,7 @@ img {
     font-size: 38px;
     line-height: 150%;
     text-transform: uppercase;
-    color: var(--black)
+    color: var(--white)
 }
 
 @media(min-width: 768px) {
@@ -709,7 +709,7 @@ img {
     font-weight: 400;
     font-size: 14px;
     line-height: 160%;
-    color: var(--light-gray)
+    color: var(--white)
 }
 
 .Paragraph_text__3cALn:not(:last-child) {
@@ -783,7 +783,7 @@ img {
     font-size: 16px;
     line-height: 150%;
     text-transform: uppercase;
-    color: var(--white)
+    color: var(--dark-white)
 }
 
 @media(min-width: 768px) {
