@@ -14,6 +14,7 @@
     --light-gray: #a5a5a5;
     --accent-color: #7c5df6;
     --pink: #fe42eb;
+    --green: #04a56c;
     --grad-1: linear-gradient(119.05deg,#3378ff 4.84%,#5effc5 15.91%,#9442fe 35.84%,#fe42eb 52.08%);
     --grad-2: linear-gradient(98.63deg,#8d5df6 -0.91%,#fe42eb 98.79%);
     --grad-3: linear-gradient(125.87deg,#3378ff -23.02%,#5effc5 5.81%,#9442fe 57.71%,#fe42eb);
@@ -38,7 +39,7 @@ body,html {
 }
 
 body {
-    background: var(--black)
+    background: var(--green)
 }
 
 a {
